@@ -1,0 +1,35 @@
+:root {
+    --clr-ceramik-yellow: rgb(248, 229, 12);
+    --clr-ceramik-blue: #014896;
+    --clr-ceramik-red: #DF0812;
+    --clr-ceramik-black: #000000;
+    --clr-ceramik-gray: #FBFBFB;
+    --clr-ceramik-white: #FFFFFF;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.ceramik-container {
+    width: 90%;
+    max-width: 1800px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.flex {
+    display: flex;
+}
+
+.p-spacer {
+    padding: 2.5rem 0;
+}
+
+.m-spacer {
+    margin-bottom: 2rem;
+}
+
+.icon-img {
+    max-width: 100%;
+}

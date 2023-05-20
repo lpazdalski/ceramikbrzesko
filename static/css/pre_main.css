@@ -1,0 +1,38 @@
+.pre-main {
+    background: var(--clr-ceramik-yellow);
+    border: 1px solid black;
+    font-family: 'Saira', sans-serif;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 36%);
+}
+
+.icon-container {
+    margin-bottom: 0.5rem;
+}
+
+.pre-main__title {
+    font-weight: 700;
+    text-align: center;
+}
+
+.pre-main__col {
+    text-align: center;
+}
+
+.pre-main__col + .pre-main__col {
+    margin-top: 1.5rem;
+}
+
+@media (min-width: 1000px) {
+
+    .pre-main__container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12rem;
+    }
+
+    .pre-main__col + .pre-main__col {
+        margin-top: 0;
+    }
+
+}

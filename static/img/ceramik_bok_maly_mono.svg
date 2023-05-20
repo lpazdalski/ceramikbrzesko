@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="16mm"
+   viewBox="0 0 135 43"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ceramik bok maly mono.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="209.62363"
+     inkscape:cy="209.22985"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g882"
+       transform="translate(0.41534606,0.65298)"
+       style="fill:#000000">
+      <g
+         id="g978"
+         transform="translate(-91.823781,-373.56373)"
+         style="fill:#000000">
+        <path
+           id="path962"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 210.13371,379.05097 -15.0952,15.0952 15.35979,15.3598 15.09571,-15.09522 z" />
+        <path
+           id="path964"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+           d="m 193.98017,395.20502 -4.72942,4.72942 -1.05782,1.05834 14.30094,14.30093 5.78776,-5.78776 z" />
+        <path
+           id="path966"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+           d="m 187.3987,388.62295 -5.78776,5.78776 5.52317,5.52318 5.78776,-5.78776 z" />
+        <path
+           id="path968"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+           d="m 202.49387,373.52779 -14.03687,14.03687 1.05833,1.05833 4.46484,4.46484 4.72943,-4.72942 9.30744,-9.30745 z" />
+      </g>
+      <path
+         d="m 8.6947987,26.457113 q -0.57573,0.118528 -1.4732,0.186259 -0.8805298,0.0847 -1.6763898,0.0847 -2.2352,0 -3.302,-0.524931 -1.04986,-0.541869 -1.40546003,-1.761059 -0.33867,-1.2192 -0.33867,-3.67453 0,-2.45533 0.33867,-3.65759 0.33866003,-1.2192 1.40546003,-1.76107 1.0668,-0.54186 3.302,-0.54186 0.77893,0 1.6425298,0.1016 0.86359,0.0847 1.43933,0.22013 v 2.45533 q -1.79493,-0.1524 -2.2521298,-0.1524 -1.2192,0 -1.6764,0.2032 -0.4572,0.2032 -0.57573,0.8128 -0.1016,0.6096 -0.1016,2.31986 0,1.71026 0.1016,2.31986 0.11853,0.6096 0.57573,0.8128 0.4572,0.2032 1.6764,0.2032 1.1683998,0 2.3198598,-0.1524 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path946" />
+      <path
+         d="m 10.561149,26.592572 v -11.65011 h 8.41585 v 2.62467 h -4.94452 v 1.84573 h 4.14866 v 2.59079 h -4.14866 v 1.96426 h 4.94452 v 2.62466 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path948" />
+      <path
+         d="m 27.261069,26.592572 -1.33773,-3.97932 h -1.40547 v 3.97932 h -3.47132 v -11.65011 h 5.87585 q 1.574801,0 2.37066,0.44027 0.795869,0.42333 1.049869,1.23613 0.270931,0.79587 0.270931,2.16746 0,1.28693 -0.287859,2.1336 -0.287872,0.84666 -1.151472,1.27 l 1.693331,4.40265 z m -1.64253,-6.46852 q 0.72813,0 1.016,-0.0847 0.3048,-0.0847 0.389461,-0.33867 0.1016,-0.254 0.1016,-0.8636 0,-0.62653 -0.0847,-0.8636 -0.0847,-0.25399 -0.38946,-0.33866 -0.28787,-0.1016 -1.016,-0.1016 h -1.1176 v 2.59079 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path950" />
+      <path
+         d="m 39.812321,26.592572 -0.541862,-1.96426 h -3.7592 l -0.52493,1.96426 H 31.5658 l 3.471329,-11.65011 h 4.809061 l 3.471331,11.65011 z m -2.370662,-8.72064 H 37.30619 l -1.11759,4.19945 h 2.404521 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path952" />
+      <path
+         d="m 54.39558,26.592572 v -6.94265 h -0.1524 l -2.015062,6.94265 H 49.90826 l -1.998131,-6.94265 h -0.1524 v 6.94265 H 44.50654 v -11.65011 h 4.775189 l 1.777989,6.02826 h 0.135472 l 1.778,-6.02826 h 4.758248 v 11.65011 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path954" />
+      <path
+         d="m 59.919529,26.592572 v -11.65011 h 3.488262 v 11.65011 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path956" />
+      <path
+         d="m 72.43693,26.672082 -2.878661,-4.63972 H 69.11801 v 4.63972 h -3.471331 v -11.65011 h 3.471331 v 4.43653 h 0.440259 l 2.929461,-4.43653 h 3.742259 l -3.843859,5.48639 3.894659,6.163731 z"
+         style="font-size:16.9333px;line-height:1.25;font-family:Saira;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="path958" />
+      <path
+         id="path960"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.154867;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 61.714881,10.549633 -2.240852,2.240839 2.1384,2.13841 2.240851,-2.24085 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:Saira;font-weight:800;-inkscape-font-specification:Saira;letter-spacing:0.156104px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="18.549908"
+         y="36.368355"
+         id="text972"
+         inkscape:export-xdpi="197"
+         inkscape:export-ydpi="197"><tspan
+           sodipodi:role="line"
+           id="tspan970"
+           x="18.549908"
+           y="36.368355"
+           style="font-size:8.46667px;fill:#000000;fill-opacity:1;stroke-width:0.264583">BRZESKO</tspan></text>
+    </g>
+  </g>
+</svg>

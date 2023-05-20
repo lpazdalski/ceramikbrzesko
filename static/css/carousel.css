@@ -1,0 +1,110 @@
+.full-screen-image-1 {
+    height: 100vh;
+    width: 100%;
+    background: url("/static/img/laz1.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.full-screen-image-2 {
+    height: 100vh;
+    width: 100%;
+    background: url("/static/img/laz2.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23D000000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23D000000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel {
+    max-height: 100vh !important;
+}
+
+.carousel-content {
+    position: absolute;
+    left: 30%;
+    top: 40%;
+    font-family: 'Roboto Mono', monospace;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+}
+
+.carousel-content-tittle {
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+    color: #014896;
+}
+
+.carousel-content-button {
+    padding: 10px 50px 10px 50px;
+    /*background-color: rgb(248, 229, 12);*/
+    background-color: #014896;
+    border: 0;
+    /*font-family: 'Roboto Mono', monospace;*/
+    font-size: 2vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*color: #014896;*/
+    color: white;
+    transform: scale(0.9);
+}
+
+.carousel-content-button:hover {
+    transform: scale(1.0);
+}
+
+#multi-item-example .carousel-inner {
+    /*background-color: #014896;*/
+    padding-left: 20%;
+    padding-right: 20%;
+    max-height: 175px;
+}
+
+.img-supporters {
+    /*width: 20%;*/
+    max-height: 75px !important;
+    max-width: 175px !important;
+    height: 100% !important;
+    vertical-align: middle;
+    display: inline-block;
+    object-fit: contain;
+    position: absolute;
+}
+
+.card-supporters {
+    /*background-color: #014896 !important;*/
+    align-items: center !important;
+    max-height: 75px !important;
+    min-height: 62px !important;
+    text-align: center !important;
+    height: 100% !important;
+}
+
+.column-supporters {
+    max-height: 162px !important;
+    min-height: 162px !important;
+    height: 100% !important;
+}
+
+.carousel-slider {
+    /*min-height: 120px;*/
+    justify-content: center;
+}
+
+.img-zoom img{
+    transition: transform .5s ease;
+}
+
+.img-zoom:hover img {
+  transform: scale(1.5);
+}
+
+.max-h-100 {
+    max-height: 100vh !important;
+}
